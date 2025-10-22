@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   background: hsl(221, 100%, 96%);
-  font-family: "Outfit", sans-serif;
+  font-family: "Hanken Grotesk", sans-serif;
 }
 
 .main-card {
@@ -183,3 +183,4 @@ button:hover {
     font-size: 15px;
   }
 }
+
